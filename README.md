@@ -11,3 +11,8 @@
 📚**Education**
 
 I'm currently studying at Malang State Vocational High School 6 with a specialization in Software Engineering which studies website development.
+
+💻**Social Media**
+- Instagram : https://www.instagram.com/daffaazizghiffari/
+- Youtube : https://www.youtube.com/@dgacha87
+- Itch.io : https://studiotengahmalam.itch.io/
