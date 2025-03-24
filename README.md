@@ -1,6 +1,5 @@
 
-👋Hello![Your paragaph text (7)]
-!! I'm Daffa Aziz Ghiffari, a passionate Game Developer with 1 years experience and Web Front-End Full Stack with 2 years experience.
+👋Hello!!! I'm Daffa Aziz Ghiffari, a passionate Game Developer with 1 years experience and Web Front-End Full Stack with 2 years experience.
 
 🚀**Skills**
 - Language : HTML, CSS, JavaScript, TypeScript, C#, PHP
