@@ -7,4 +7,5 @@
 - Tools : GIT, Blender3D, VS Code, Visual Studio, Unity
 
 📚**Education**
+
 I'm currently studying at Malang State Vocational High School 6 with a specialization in Software Engineering which studies website development.
