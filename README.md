@@ -1,19 +1,10 @@
-```
-public class IntroduceMySelf
-{
-  static void Main(string[] args)
-  {
-    String name = "Daffa Aziz Ghiffari";
-    string role = "Game Developer"; 
-    int age = 17; 
-    experience = "6 Month";
-    school = "SMK Negeri 6 Malang";
+👋Hello!! I'm Daffa Aziz Ghiffari, a passionate Game Developer with 1 years experience and Web Front-End Full Stack with 2 years experience.
 
-    Console.Write("Hallo everyone,let me introduce my self, my name is " + ".");
-    Console.Write("My role is a " + role ".");
-    Console.Write("I'm " + age + " years old.");
-    Console.Write("My experience in my role has been for " + experience + ".");
-    Console.Write("I go to school at " + school + ".");
-  }
-}
-```
+🚀**Skills**
+- Language : HTML, CSS, JavaScript, TypeScript, C#, PHP
+- Frameworks: React.Js, Next.Js, Vue, Laravel
+- Database : MySQL
+- Tools : GIT, Blender3D, VS Code, Visual Studio, Unity
+
+📚**Education**
+I'm currently studying at Malang State Vocational High School 6 with a specialization in Software Engineering which studies website development.
