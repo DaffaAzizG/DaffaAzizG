@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/cf717fd8-2c0a-4ab5-887f-d84b1a9272b7)
+
 👋Hello![Your paragaph text (7)]
 !! I'm Daffa Aziz Ghiffari, a passionate Game Developer with 1 years experience and Web Front-End Full Stack with 2 years experience.
 
