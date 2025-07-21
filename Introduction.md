@@ -4,9 +4,9 @@
 
 🚀**Skills**
 - Language : HTML, CSS, JavaScript, TypeScript, C#, PHP
-- Frameworks: React.Js, Next.Js, Vue, Laravel
+- Frameworks: React.Js, Next.Js, Laravel, GitBook, 
 - Database : MySQL
-- Tools : GIT, Blender3D, VS Code, Visual Studio, Unity
+- Tools : GIT, GitHub, Blender3D, VS Code, Visual Studio, Unity, GDevelop
 
 📚**Education**
 
