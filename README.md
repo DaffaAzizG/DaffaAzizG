@@ -59,7 +59,7 @@
 ---
 
 ## 🧠 Fun Facts
-- 🎮 I originally wanted to become a **game developer**, so my older brother bought me a programming book and sent me to **SMKN 6 Malang**.  
+- 🎮 I originally wanted to become a **game developer**, so my older sister bought me a programming book and sent me to **SMKN 6 Malang**.  
 - 💻 However, both the book and the lessons turned out to be about **web programming**, not game development 😅.  
 - 🕹️ I started learning **game development** seriously after joining the *Game Dev Competition Indonesia* with two of my friends.  
 - 🤝 At that time, I barely understood anything — but thankfully, we managed to reach **7th place** in the competition.  
