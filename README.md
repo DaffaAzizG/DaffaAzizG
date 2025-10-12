@@ -70,7 +70,7 @@
 ## ☕ Support Me
 
 <div>
-  <a href="https://saweria.co/daffaaziz" target="_blank">
+  <a href="https://saweria.co/DGacha87" target="_blank">
     <img src="https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Saweria" />
   </a>
 </div>
