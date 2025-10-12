@@ -67,6 +67,16 @@
 
 ---
 
+## ☕ Support Me
+
+<div>
+  <a href="https://saweria.co/daffaaziz" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Saweria" />
+  </a>
+</div>
+
+---
+
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffa-aziz-ghiffari/)
