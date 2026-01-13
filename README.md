@@ -1,113 +1,96 @@
 <!-- BANNER -->
 <div align="center">
   <img 
-    src="/images/banner.png"
+    src="/public/images/banner.png"
     width="100%"
     alt="Banner"
   />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Daffa+Aziz+Ghiffari;Web+Developer+%7C+Game+Developer;Building+Webs+and+Dark+Stories" />
+
 </div>
-
-<br/>
-
-<!-- AVATAR + INTRO -->
-<div align="center">
-
-<img 
-  src="https://your-profile-photo-url-here.jpg"
-  width="140"
-  style="border-radius: 50%; border: 3px solid #7C3AED;"
-/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Daffa+Aziz+Ghiffari;Web+Developer+%7C+Game+Developer;Building+Webs+and+Dark+Stories" />
 
 <p align="center">
   <b>💻 Web Developer</b> &nbsp;•&nbsp; <b>🎮 Game Developer</b><br/>
   <i>Mixing technology, emotion, and storytelling</i>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=DaffaAzizG&label=Profile%20Views&color=7C3AED&style=flat" />
-
 </div>
 
 ---
 
-## 🕯️ About Me
-
-I’m a developer who loves building **clean web applications** and crafting  
-**horror, mystery, and story-driven games** inspired by Indonesian culture.
-
-- ⚙️ Focus: **Next.js, Laravel, Supabase**
-- 🎮 Games: **Horror • Psychological • Narrative**
-- 🎯 Goal: Create products that **feel alive**, not just functional
+## 🧩 About Me
+- 🖥️ Passionate about building **interactive, efficient, and beautiful web applications**  
+- 👾 Love creating **horror, story-driven, and mystery games** inspired by Indonesian culture  
+- 🌏 Currently learning and exploring **Next.js, Supabase, and Game Design**  
+- 🎯 Always striving to mix **technology + emotion** in everything I make  
 
 ---
 
-## 🧰 Main Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💡 Web Development
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-**Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,laravel,php,nodejs,supabase" />
+### 🎨 Frontend Styling
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
-<br/><br/>
+### ⚙️ Development Environment
+<p>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laragon-006CBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
-**Styling**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite" />
-
-<br/><br/>
-
-**Game Dev**
-<br/>
-<img src="https://skillicons.dev/icons?i=unity,cs,godot,blender" />
-
-</div>
+### 🎮 Game Development
+<p>
+  <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDevelop-273C75?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📈 GitHub Overview
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaffaAzizG&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAzizG&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🧠 Story Behind Me
-
-- 🎮 Wanted to be a **game developer** since school
-- 📘 First learned programming through **web**, not games
-- 🕹️ Joined _Game Dev Competition Indonesia_ with almost zero experience
+## 🧠 Fun Facts
+- 🎮 Originally wanted to become a **game developer**
+- 📘 First learned programming through **web development**, not games 😅
+- 🕹️ Joined *Game Dev Competition Indonesia* with minimal experience
 - 🏆 Finished **7th place nationally**
-- 🌱 Now growing seriously in **both web & game development**
+- 🌱 Continuously improving in **web & game development**
 
 ---
 
-## 🌐 Find Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/daffa-aziz-ghiffari/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+## ☕ Support Me
+<a href="https://saweria.co/DGacha87" target="_blank">
+  <img src="https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 </a>
-<a href="https://studiotengahmalam.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white"/>
-</a>
-<a href="mailto:raditdaffa375@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/daffaazizghiffari/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
-<div align="center">
-  <i>“I don’t just write code — I build experiences.”</i>
-</div>
+## 🌐 Connect with Me
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daffa-aziz-ghiffari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://studiotengahmalam.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+  <a href="mailto:raditdaffa375@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/daffaazizghiffari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
