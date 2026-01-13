@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
   <img 
-    src="https://your-banner-image-url-here.png"
+    src="/images/banner.png"
     width="100%"
     alt="Banner"
   />
@@ -31,10 +31,10 @@
 
 </div>
 
-
 ---
 
 ## 🕯️ About Me
+
 I’m a developer who loves building **clean web applications** and crafting  
 **horror, mystery, and story-driven games** inspired by Indonesian culture.
 
@@ -45,6 +45,7 @@ I’m a developer who loves building **clean web applications** and crafting
 ---
 
 ## 🧰 Main Stack
+
 <div align="center">
 
 **Web**
@@ -68,6 +69,7 @@ I’m a developer who loves building **clean web applications** and crafting
 ---
 
 ## 📈 GitHub Overview
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaffaAzizG&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAzizG&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -76,15 +78,17 @@ I’m a developer who loves building **clean web applications** and crafting
 ---
 
 ## 🧠 Story Behind Me
+
 - 🎮 Wanted to be a **game developer** since school
 - 📘 First learned programming through **web**, not games
-- 🕹️ Joined *Game Dev Competition Indonesia* with almost zero experience
+- 🕹️ Joined _Game Dev Competition Indonesia_ with almost zero experience
 - 🏆 Finished **7th place nationally**
 - 🌱 Now growing seriously in **both web & game development**
 
 ---
 
 ## 🌐 Find Me
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/daffa-aziz-ghiffari/">
