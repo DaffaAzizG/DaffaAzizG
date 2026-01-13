@@ -6,7 +6,7 @@
     alt="Banner"
   />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Daffa+Aziz+Ghiffaris" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Daffa+Aziz+Ghiffari" />
 
 </div>
 
