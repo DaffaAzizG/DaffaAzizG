@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <b>💻 Web Developer</b> &nbsp;•&nbsp; <b>🎮 Game Developer</b><br/>
+  <b>Web Developer</b> || <b>Game Developer</b> || Founder Studio Tengah Malam<br/>
   <i>Mixing technology, emotion, and storytelling</i>
 </p>
 
@@ -19,17 +19,17 @@
 
 ---
 
-## 🧩 About Me
-- 🖥️ Passionate about building **interactive, efficient, and beautiful web applications**  
-- 👾 Love creating **horror, story-driven, and mystery games** inspired by Indonesian culture  
-- 🌏 Currently learning and exploring **Next.js, Supabase, and Game Design**  
-- 🎯 Always striving to mix **technology + emotion** in everything I make  
+## About Me
+- Passionate about building **interactive, efficient, and beautiful web applications**  
+- Love creating **horror, story-driven, and mystery games** inspired by Indonesian culture  
+- Currently learning and exploring **Next.js, Supabase, and Game Design**  
+- Always striving to mix **technology + emotion** in everything I make  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💡 Web Development
+### Web Development
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### 🎨 Frontend Styling
+### Frontend Styling
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Development Environment
+### Development Environment
 <p>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laragon-006CBE?style=for-the-badge"/>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
-### 🎮 Game Development
+### Game Development
 <p>
   <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -66,23 +66,23 @@
 
 ---
 
-## 🧠 Fun Facts
-- 🎮 Originally wanted to become a **game developer**
-- 📘 First learned programming through **web development**, not games 😅
-- 🕹️ Joined *Game Dev Competition Indonesia* with minimal experience
-- 🏆 Finished **7th place nationally**
-- 🌱 Continuously improving in **web & game development**
+## Fun Facts
+- Originally wanted to become a **game developer**
+- First learned programming through **web development**, not games 😅
+- Joined *Game Dev Competition Indonesia* with minimal experience
+- Finished **7th place nationally**
+- Continuously improving in **web & game development**
 
 ---
 
-## ☕ Support Me
+## Support Me
 <a href="https://saweria.co/DGacha87" target="_blank">
   <img src="https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 </a>
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/daffa-aziz-ghiffari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
