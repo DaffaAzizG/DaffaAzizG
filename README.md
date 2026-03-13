@@ -11,8 +11,7 @@
 </div>
 
 <p align="center">
-  <b>Web Developer</b> || <b>Game Developer</b> || Founder Studio Tengah Malam<br/>
-  <i>Mixing technology, emotion, and storytelling</i>
+  <b>Web Developer</b> || <b>Game Developer</b> || <b>Founder Studio Tengah Malam</b>
 </p>
 
 </div>
