@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <b>Web Developer</b> || <b>Game Developer</b> || <b>Founder Studio Tengah Malam</b>
+  <b>Web Developer</b> || <b>Game Developer</b>
 </p>
 
 </div>
