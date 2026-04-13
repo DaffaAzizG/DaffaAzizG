@@ -18,7 +18,8 @@
 
 ---
 
-## About Me
+## Tentang Saya / About Me
+
 - Passionate about building **interactive, efficient, and beautiful web applications**  
 - Love creating **horror, story-driven, and mystery games** inspired by Indonesian culture  
 - Currently learning and exploring **Next.js, Supabase, and Game Design**  
@@ -83,7 +84,6 @@
 
 ## Connect with Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=files&logoColor=white"/></a>
   <a href="https://docs.google.com/document/d/1HNrqPNJ1CGKmmcoTCLIPrvv8a2FpibWc10P1rer_9WQ/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume/CV-000?style=for-the-badge&logo=googledocs&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/daffa-aziz-ghiffari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://studiotengahmalam.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
