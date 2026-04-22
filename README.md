@@ -19,11 +19,7 @@
 ---
 
 ## Tentang Saya / About Me
-
-- Passionate about building **interactive, efficient, and beautiful web applications**  
-- Love creating **horror, story-driven, and mystery games** inspired by Indonesian culture  
-- Currently learning and exploring **Next.js, Supabase, and Game Design**  
-- Always striving to mix **technology + emotion** in everything I make  
+Saya Daffa, usia 19 tahun. Saya punya passion dalam pengembangan website terutama dibidang frontend. Saya belajar coding semenjak masuk SMK, ditambah pengalaman PKL selama 10 bulan dan mendapat bagian web frontend developer juga. Saat ini saya juga ada passion di bidang game unity programmer, dan juga mempelajari engine GDevelop. 
 
 ---
 
@@ -63,15 +59,6 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/GDevelop-273C75?style=for-the-badge"/>
 </p>
-
----
-
-## Fun Facts
-- Originally wanted to become a **game developer**
-- First learned programming through **web development**, not games 😅
-- Joined *Game Dev Competition Indonesia* with minimal experience
-- Finished **7th place nationally**
-- Continuously improving in **web & game development**
 
 ---
 
