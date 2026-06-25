@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <b>Web Developer</b> || <b>Game Developer</b>
+  <b>Junior Web Developer</b>
 </p>
 
 </div>
