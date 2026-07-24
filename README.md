@@ -19,7 +19,7 @@
 ---
 
 ## Tentang Saya / About Me
-Saya Daffa, usia 19 tahun. Saya punya passion dalam pengembangan website terutama dibidang frontend. Saya belajar coding semenjak masuk SMK, ditambah pengalaman PKL selama 10 bulan dan mendapat bagian web frontend developer juga. Saat ini saya juga ada passion di bidang game unity programmer, dan juga mempelajari engine GDevelop. 
+Saya Daffa, Junior Web Fullstack Developer. Salam Kenal !
 
 ---
 
